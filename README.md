@@ -85,7 +85,7 @@ void loop() {
 ![](https://github.com/AntoniodeJesus19/Practica-ESP32-con-DHT22-y-LCD/blob/main/Captura%20de%20pantalla%202024-12-10%20002136.png?raw=true)
 
 5. Seleccionamos nuestro sensor en la parte de **Simulacion** en el boton **+** y buscamos **DHT22**, luego buscamos **LCDI2C** y los conectamos de la siguiente manera.
-![]()
+![](https://github.com/AntoniodeJesus19/Practica-ESP32-con-DHT22-y-LCD/blob/main/Captura%20de%20pantalla%202024-12-10%20002227.png?raw=true)
 
 
 ### Instrucciónes de operación
