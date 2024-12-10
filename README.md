@@ -91,7 +91,7 @@ void loop() {
 ### Instrucciónes de operación
 
 1. Iniciar simulador.
-2. Visualizar los datos en el monitor serial.
+2. Visualizar los textos y los datos en la pantalla LCD.
 
 
 ## Resultados
